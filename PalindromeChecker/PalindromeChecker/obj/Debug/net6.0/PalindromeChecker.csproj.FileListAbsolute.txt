@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.exe
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.deps.json
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.runtimeconfig.json
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.dll
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.pdb
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.AssemblyInfo.cs
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.dll
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\refint\PalindromeChecker.dll
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.pdb
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.genruntimeconfig.cache
+C:\Users\USer\source\repos\PalindromeChecker\PalindromeChecker\obj\Debug\net6.0\ref\PalindromeChecker.dll
